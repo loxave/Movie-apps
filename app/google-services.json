@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5798520418",
+    "firebase_url": "https://bwamov-a88dd.firebaseio.com",
+    "project_id": "bwamov-a88dd",
+    "storage_bucket": "bwamov-a88dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5798520418:android:0ebcb3d434338767da133b",
+        "android_client_info": {
+          "package_name": "com.coolcode.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5798520418-qee0rok9fjpp9nqfq27tjdi3oag2bj8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXjt-x5RX6-kSxP7UvAX2GFCSrHwY4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5798520418-qee0rok9fjpp9nqfq27tjdi3oag2bj8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
