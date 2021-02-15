@@ -1,8 +1,9 @@
 # Movie-apps
+Unifinish project
 
-Feature only 
+there's some feature was finish: 
 
 - Splash Screen
 - Login Screen
 - Home Screen
-- some many fiture is coming soon
+- some many feature is coming soon 
